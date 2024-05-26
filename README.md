@@ -50,3 +50,13 @@ Equipment status monitoring system based on audio diagnosis
   设备故障预警与故障后的警报  
   功能四
   账号的登录与信息修改  
+八。操作信息  
+    1. 运行目的；  
+      用于检测设备状态。
+    2. 操作要求；  
+      熟练使用Windows系统 。 
+      会正常识别设备信息。  
+    3. 启动方法；  
+      将系统安装完成后在前端直接启动。  
+    4. 预计启动时间；  
+      10s
