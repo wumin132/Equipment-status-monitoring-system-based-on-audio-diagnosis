@@ -1,5 +1,5 @@
 # Equipment-status-monitoring-system-based-on-audio-diagnosis
-Equipment status monitoring system based on audio diagnosis
+Equipment status monitoring system based on audio diagnosis  
 一.项目背景  
   通过阅读该操作手册，可以帮助尽快熟悉在基于音频诊断的设备健康状态监测系统的相关操作。
   本项目为基于音频诊断的设备健康状态监测系统  
